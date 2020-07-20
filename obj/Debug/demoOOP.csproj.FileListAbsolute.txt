@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\demoOOP\bin\Debug\demoOOP.exe.config
+C:\Users\admin\source\repos\demoOOP\bin\Debug\demoOOP.exe
+C:\Users\admin\source\repos\demoOOP\bin\Debug\demoOOP.pdb
+C:\Users\admin\source\repos\demoOOP\obj\Debug\demoOOP.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\demoOOP\obj\Debug\demoOOP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\demoOOP\obj\Debug\demoOOP.exe
+C:\Users\admin\source\repos\demoOOP\obj\Debug\demoOOP.pdb
