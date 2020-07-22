@@ -8,8 +8,15 @@ namespace demoOOP
 {
     class Vizitator
     {
-        private string Name { get; set; }
-        private int Age { get; set; }
-        private string Gender { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Gender { get; set; }
+
+        public Vizitator(string name, int age, string gender)
+        {
+            this.Name = name ;
+            this.Age = age;
+            this.Gender = gender;
+        }
     }
 }
